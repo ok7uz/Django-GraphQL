@@ -1,1 +1,1 @@
-![Django Graphene](https://i.imgur.com/VsyWctC.png)
+<img src="https://i.imgur.com/VsyWctC.png" width="100%" alt="django graphene">
